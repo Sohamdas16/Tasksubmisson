@@ -30,7 +30,8 @@ Enter the first number10
 Enter the second number5
 Addition: 15.0
 Subtraction: 5.0
-
+Multiplication: 50.0
+Divison: 2.0
 
 Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
@@ -65,5 +66,4 @@ Enter your second name Das
 Hello, Soham Das!  Welcome to the Python progam.
 
 
-Multiplication: 50.0
-Divison: 2.0
+
